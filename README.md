@@ -1,5 +1,5 @@
 # Alleviation
-Welcome to The Alleviation Project!
+Welcome to The Alleviation Project!   -  This is mostly a placeholder readme, I'll make it better soon.
 
 The dream is to create the ultimate programmaing experience: an immersive, interactive, helpful enviroment that tunes your
 brain optimally. It will use a modular notation system, so that the computer directly ingests mathematical notation, instead
